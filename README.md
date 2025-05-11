@@ -1,2 +1,2 @@
-hello world
-import turtle
+hello word
+merhaba dünya
